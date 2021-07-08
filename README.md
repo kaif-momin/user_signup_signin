@@ -96,6 +96,8 @@ Username is already exist.
 
 also i have created the two more method getUserById and updateExistingUser 
 
+and also i have write the code for authentication failure you can test them all
+
 
 
 
