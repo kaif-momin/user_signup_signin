@@ -44,6 +44,9 @@ response body:
     "createdDate":"2021-01-24"
 }
 
+![Screenshot (94)](https://user-images.githubusercontent.com/47498392/124913084-537f1980-e00c-11eb-8cd8-524c2762e2ba.png)
+
+
 User Login with username and password:
 
 url endpoint: http://localhost:8080/api/signin/userName/kaif007/password/kaif1234
@@ -62,6 +65,10 @@ response body:
     "age": 21,
     "createdDate": "2021-01-24"
 }
+
+
+![Screenshot (95)](https://user-images.githubusercontent.com/47498392/124913141-6691e980-e00c-11eb-842e-3e8ea516569c.png)
+
 
 Ceate new user with the existing username:
 
@@ -84,6 +91,10 @@ request body:
 response body:
 
 Username is already exist.
+
+![Screenshot (96)](https://user-images.githubusercontent.com/47498392/124913161-6db8f780-e00c-11eb-9344-8a88b7c6f544.png)
+
+also i have created the two more method getUserById and updateExistingUser 
 
 
 
